@@ -1,4 +1,6 @@
 # ai_voice_assisted_email
-THIS PROJECT CONVERTS YOUR VOICE MESSAGE INTO TEXT AND SENDS AN EMAIL TO THE SENDER'S EMAIL ADRESS.
-IN THIS PROJECT I HAVE USED YAGMAIL LIBRARY TO SEND THE EMAIL.
-I HAVE ALSO USED SPEECH RECOGNITION LIBRARY AND THE PYAUDIO LIBRARY TO CONVERT USERS VOICE MESSAGE INTO TEXT
+
+This project converts your voice message into text and sends an email to the sender's email adress.
+
+In this project i have used yagmail library to send the email.
+I have also used speech recognition library and the pyaudio library to convert users voice message into text.
